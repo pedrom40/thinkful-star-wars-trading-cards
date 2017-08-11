@@ -1,0 +1,25 @@
+header {
+  margin-bottom:40px;
+  background:#F0BD35;
+}
+  header h1 {
+    margin-bottom:10px;
+  }
+  header p {
+    margin-top:0;
+  }
+
+.card {
+  margin-bottom:20px;
+  border:solid 1px #E8E8E8;
+}
+  .card p {
+    padding:15px;
+  }
+  .card p strong {
+    display:block;
+  }
+
+img {
+	width:100%;
+}
