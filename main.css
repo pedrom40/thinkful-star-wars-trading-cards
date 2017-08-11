@@ -1,3 +1,8 @@
+body {
+  font-family:"Roboto", sans-serif;
+  color:#252525;
+}
+
 header {
   margin-bottom:40px;
   background:#F0BD35;
@@ -13,11 +18,12 @@ header {
   margin-bottom:20px;
   border:solid 1px #E8E8E8;
 }
-  .card p {
-    padding:15px;
+  .card h3 {
+    margin-bottom:10px;
+    padding:0 15px;
   }
-  .card p strong {
-    display:block;
+  .card p {
+    margin:0 0 25px 15px;
   }
 
 img {
